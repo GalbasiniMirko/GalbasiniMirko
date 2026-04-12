@@ -27,14 +27,6 @@ Fuori dallo schermo la voglia di 'sporcarmi le mani' rimane la stessa. Passo il 
 
 ---
 
-### 📊 Statistiche GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiche GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Linguaggi più usati" height="150" />
-</p>
-
----
-
 ### 📫 Contatti
 - 📧 Email: **mirko4001@gmail.com**
 - 💼 LinkedIn: [Mirko Galbasini](linkedin.com/in/mirko-galbasini-b96768272)
