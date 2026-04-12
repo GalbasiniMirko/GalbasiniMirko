@@ -2,9 +2,9 @@
 
 **🎓 Studente di Informatica**
 
-Benvenuto nel mio profilo! Sono uno studente di informatica con una mentalità pratica: mi piace capire come funzionano le cose "sotto il cofano", che si tratti di un algoritmo complesso, di un server casalingo o di un motore di una moto. 
+Sono uno studente di informatica a cui piace semplicemente capire come funzionano le cose. Non ho un settore preferito in assoluto: se c'è un problema da risolvere o qualcosa di nuovo da provare, mi ci metto e cerco di arrivare fino in fondo.
 
-Il mio percorso unisce lo studio rigoroso delle basi dell'informatica a una costante voglia di sperimentare con l'hardware e il networking nel mio tempo libero.
+Fuori dallo schermo la voglia di 'sporcarmi le mani' rimane la stessa. Passo il tempo con gli amici, vado in moto e mi piace il fai-da-te pratico.
 
 ---
 
