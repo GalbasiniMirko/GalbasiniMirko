@@ -4,8 +4,6 @@
 
 Sono uno studente di informatica a cui piace semplicemente capire come funzionano le cose. Non ho un settore preferito in assoluto: se c'è un problema da risolvere o qualcosa di nuovo da provare, mi ci metto e cerco di arrivare fino in fondo.
 
-Fuori dallo schermo la voglia di 'sporcarmi le mani' rimane la stessa. Passo il tempo con gli amici, vado in moto e mi piace il fai-da-te pratico.
-
 ---
 
 ### 🎓 Formazione & Competenze Core
