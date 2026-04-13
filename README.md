@@ -1,8 +1,6 @@
 # Ciao, sono Mirko! 👋
 
-**🎓 Studente di Informatica**
-
-Sono uno studente di informatica a cui piace semplicemente capire come funzionano le cose. Se c'è un problema da risolvere o qualcosa di nuovo da provare, mi ci metto e cerco di arrivare fino in fondo!
+Sono uno studente di informatica presso [UniMi](https://www.unimi.it/it) a cui piace semplicemente capire come funzionano le cose. Se c'è un problema da risolvere o qualcosa di nuovo da provare, mi ci metto e cerco di arrivare fino in fondo!
 
 ---
 
