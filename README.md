@@ -17,4 +17,4 @@ Sono uno studente di informatica presso [UniMi](https://www.unimi.it/it) a cui p
 ### 📫 Contatti
 - 📧 Email: [mirko4001@gmail.com](mailto:mirko4001@gmail.com)
 - 💼 LinkedIn: [Mirko Galbasini](https://www.linkedin.com/in/mirko-galbasini-b96768272)
-- 🌐 Portfolio: *In arrivo a breve!* ---
+- 🌐 Portfolio: *In arrivo a breve!*
