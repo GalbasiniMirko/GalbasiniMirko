@@ -6,12 +6,12 @@ Sono uno studente di informatica a cui piace semplicemente capire come funzionan
 
 ---
 
-### 🎓 Formazione & Competenze Core
-*Queste sono le tecnologie che ho approfondito nel mio percorso di studi e su cui ho basi solide:*
+### 📚 Formazione & Competenze Core
+*Le tecnologie che sto approfondendo nel mio percorso universitario:*
 
-- **Linguaggi di Programmazione:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-- **Database:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) (Progettazione SQL e basi di dati)
-- **Altro:** Fondamenti di algoritmi, strutture dati e architettura degli elaboratori.
+- **Linguaggi:** ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+- **Database:** ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white) Sto seguendo un corso specialistico in **SQL e progettazione di database relazionali**.
+- **Sistemi:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) Conoscenza dei sistemi GNU/Linux e utilizzo del terminale.
 
 ---
 
