@@ -12,6 +12,6 @@ Che sia per un esame universitario o per un progetto nel tempo libero, questo è
 ---
 
 ### 📫 Contatti
-- 📧 Email: [mirko4001@gmail.com](mailto:mirko4001@gmail.com)
+- 📧 Email: [info@mirkogalbasini.com](mailto:info@mirkogalbasini.com)
 - 💼 LinkedIn: [Mirko Galbasini](https://www.linkedin.com/in/mirko-galbasini-b96768272)
 - 🌐 Portfolio: [Mirko Galbasini](https://www.mirkogalbasini.com/)
